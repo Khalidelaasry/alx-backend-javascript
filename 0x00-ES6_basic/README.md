@@ -56,5 +56,5 @@ To run this project, you'll need Node.js installed on your machine. Follow these
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/alx-es6-basics.git
+   git clone https://github.com/Khalidelaasry/alx-es6-basics.git
 
