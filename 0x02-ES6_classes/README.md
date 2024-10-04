@@ -91,4 +91,4 @@ To run this project, you'll need Node.js installed on your machine. Follow these
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Khalidelaasry/alx-es6-classes.git
+   git clone https://github.com/Khalidelaasry/alx-backend-javascript.git
